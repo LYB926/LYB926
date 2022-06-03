@@ -1,7 +1,7 @@
 ### Hi there 👋
 ⚡ My personal blog: [Wisp.fun](http://wisp.fun) 
 ![](https://github-readme-stats.vercel.app/api?username=lyb926)
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyb926&show_icons=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyb926&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyb926&show_icons=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyb926&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--
